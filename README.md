@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Javascript, Astro, CSS, Tailwind**
 
-- 📫 How to reach me **emirlpintos@gmail.com**
+- 📫 Send me a message **emirlpintos@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/emir-lautaro-pintos-848463255/](https://www.linkedin.com/in/emir-lautaro-pintos-848463255/)
 
