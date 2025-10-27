@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Emir Lautaro</h1>
-<h3 align="center">Frontend Developer based in Argentina</h3>
+<h1 align="center">Hi 👋, I'm Lautaro</h1>
+<h3 align="center">Fullstack Developer based in Argentina</h3>
 
-- 🌱 I’m currently learning **Typescript and backend in my free time.**
+- 🌱 I'm currently developing Fiscaly.ai, a sindicalist-focused app which increases productivity and automates process by 65%.**
 
-- 👯 I’m looking to collaborate on **front end features to expand my knowledge**
+- 👯 I’m mainly looking to collaborate on **administrative and fintech solutions, but i'm open to anything that make people's life better**
 
 - 👨‍💻 All of my projects are available at [https://lautiplug.netlify.app](https://lautiplug.netlify.app)
 
-- 💬 Ask me about **React, Javascript, Astro, CSS, Tailwind**
-
-- 📫 Send me a message **emirlpintos@gmail.com**
+- 📫 Send me a message **hello@lautiplug.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/emir-lautaro-pintos-848463255/](https://www.linkedin.com/in/emir-lautaro-pintos-848463255/)
 
