@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lautaro</h1>
-<h3 align="center">Fullstack Developer based in Argentina</h3>
+<h1 align="center">Hi, I'm Lautaro</h1>
+<h3 align="center">Business Systems Developer based in Argentina</h3>
 
-- 🌱 I'm currently developing Fiscaly.ai, a sindicalist-focused app which increases productivity and automates process by 65%.**
+- 🌱 I'm currently developing Fiscaly, a sindicalist-focused app which increases productivity and automates process up to 60%.
 
-- 👯 I’m mainly looking to collaborate on **administrative and fintech solutions, but i'm open to anything that make people's life better**
+- 👯 I’m mainly looking to collaborate on **administrative and fintech solutions, but i'm open to anything that make people's life easier**
 
 - 👨‍💻 All of my projects are available at [https://lautiplug.netlify.app](https://lautiplug.netlify.app)
 
