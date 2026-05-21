@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Lautaro</h1>
-<h3 align="center">Full Stack Developer based in Argentina</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🔭 Currently building **Pikker**, an inventory management system for Apple resellers
 - 🛠️ Experienced in developing multi-tenant SaaS applications with 50+ active users in production
 - 👯 Looking to collaborate on **fintech solutions and business automation tools**
 - 🎯 Focused on **React, TypeScript, NestJS & PostgreSQL**
