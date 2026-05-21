@@ -1,5 +1,5 @@
 # Hi, I'm Lautaro
-**Fullstack Developer · Buenos Aires, Argentina**
+**Fullstack Software Developer · Buenos Aires, Argentina**
 
 > I build tools that solve real problems — from automating labor inspection workflows to tracking gym progress. I care about clean architecture, honest code, and shipping things that actually work.
 
